@@ -1,10 +1,10 @@
-# Wayback-Chrome
+# Wayback Chrome
 
-//A simple personal project to learn extesnion development for Chrome and Chrome-based browsers. 
+###### _A simple personal project to learn extesnion development for Chrome and Chrome-based browsers._
 
-A simple & minimal extension to save web links to Wayback Machine (archive.org).
+##### A simple & minimal extension to save web links to Wayback Machine (archive.org).
 
-Install:
+#### Install:
 
 1. Download as ZIP.
 
@@ -16,9 +16,9 @@ Install:
 
 5. Visit web url to be saved/archived, tap on extension.
 
-Optional: Pin to omnibar for easy acess. 
+_*Optional*_: Pin to omnibar for easy acess. 
 
-Features to add:
+#### Features to add:
 
 Icon
 Auto-close new tab opened upon set timeout
