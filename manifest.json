@@ -1,0 +1,16 @@
+//manifest.json
+{
+    "manifest_version": 2,
+    "name": "Wayback Chrome",
+    "description": "Save the current webpage to the Wayback Machine",
+    "version": "1.0",
+    "permissions": [
+        "activeTab"
+    ],
+    "browser_action": {
+        //"default_popup": "popup.html"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
