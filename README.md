@@ -1,8 +1,6 @@
 # Wayback Chrome
 
-###### _A simple personal project to learn extesnion development for Chrome and Chrome-based browsers._
-
-##### A simple & minimal extension to save web links to Wayback Machine (archive.org).
+##### A simple & minimal Chrome/Edge extension to save web links to Wayback Machine (archive.org).
 
 #### Install:
 
